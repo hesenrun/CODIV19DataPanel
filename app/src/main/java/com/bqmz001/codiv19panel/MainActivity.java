@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 break;
             case R.id.icon_about:
-                Toast.makeText(MainActivity.this, "作者：bqmz001\n工作写着玩的一个demo", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "作者：bqmz001", Toast.LENGTH_SHORT).show();
                 break;
         }
         return true;
